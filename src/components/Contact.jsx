@@ -11,7 +11,6 @@ const Contact = () => {
       className='my-10 lg:my-20 text-center text-4xl'>Get In Touch</motion.h2>
       <div className="text-center tracking-tighter flex flex-col gap-[20px] text-neutral-500">
         <p className='text-xl'>{CONTACT.address}</p>
-        <p className='text-xl'>Phone No.  {CONTACT.phoneNo}</p>
         <p className='text-xl'><a href="mailto:upadhyay12june@gmail.com">{CONTACT.email}</a></p>
       </div>
     </div>
