@@ -28,6 +28,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "85 Deshbandhu Nagar road, Kolkata WestBengal - 712233",
-  phoneNo: "+91 8335014940",
+  phoneNo: " ",
   email: "upadhyay12june@gmail.com",
 };
